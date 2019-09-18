@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  border-spacing: 10px;
+}
+
+tr {
+  overflow-x: scroll;
+}
+
+th {
+  text-align: left;
+}
+
+.table-outer {
+  overflow-x: scroll;
+}
+
+.content {
+  max-width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.title {
+  text-align: center;
+}
